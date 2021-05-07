@@ -1,12 +1,12 @@
 ## Etoile Class Guide Overview
 
-[Skill Tree](skilltree.md)
+[Skill Tree](Pages/skilltree.md)
 
-[Moveset](moveset.md)
+[Moveset](Pages/moveset.md)
 
 [DPS Rotations](Pages/DPSRotations.md)
 
-[Weapons Recommendations](weaponrecommendations.md)   
+[Weapons Recommendations](Pages/weaponrecommendations.md)   
 
 [About Me](about.md)
 
