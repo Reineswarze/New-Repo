@@ -8,6 +8,8 @@
 
 [Weapons Recommendations](Pages/weaponrecommendations.md)   
 
+[Unit Recommendations](Pages/units.md)
+
 [SGA/SSA](Pages/SGA.md)
 
 [About Me](about.md)
