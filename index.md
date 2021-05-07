@@ -12,5 +12,7 @@
 
 [SGA/SSA](Pages/SGA.md)
 
+[Frequently Asked Questions](Pages/faq.md)
+
 [About Me](about.md)
 
