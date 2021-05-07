@@ -4,6 +4,9 @@
 
 [Moveset](moveset.md)
 
+[DPS Rotations](DPSrotations.md)
+
 [Weapons Recommendations](weaponrecommendations.md)   
 
 [About Me](about.md)
+
