@@ -8,5 +8,7 @@
 
 [Weapons Recommendations](Pages/weaponrecommendations.md)   
 
+[SGA/SSA](Pages/SGA.md)
+
 [About Me](about.md)
 
