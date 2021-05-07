@@ -4,7 +4,7 @@
 
 [Moveset](moveset.md)
 
-[DPS Rotations](DPSRotations.md)
+[DPS Rotations](Pages/DPSRotations.md)
 
 [Weapons Recommendations](weaponrecommendations.md)   
 
