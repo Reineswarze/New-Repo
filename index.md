@@ -1,7 +1,7 @@
 ## Etoile Class Guide Overview
 
-[Skill Tree](Skill Tree.md)
+[Skill Tree](skilltree.md)
 
-[Weapons Recommendations](Weapon Recommendations.md)   
+[Weapons Recommendations](weaponrecommendations.md)   
 
 [About Me](about.md)
