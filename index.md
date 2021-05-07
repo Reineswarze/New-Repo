@@ -1,6 +1,6 @@
 ## Etoile Class Guide Overview
 
 
-[Armament Recommendations](Armament Recommendations)
+[Weapons Recommendations](Weapon Recommendations)   
 
 [About Me](about.md)
