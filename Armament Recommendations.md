@@ -1,3 +1,3 @@
-# Armament Recommendations
+# Weapon Recommendations
 
 [Back to Overview](index.md)
