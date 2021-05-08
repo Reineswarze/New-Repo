@@ -36,4 +36,4 @@ if you are on the Japanese servers, you have the option of using the helen bathi
 ### Can I Main One Weapon?
 You can but wand is near the stage of Must-Have, having no DBs or DS is fine.
 
-[Back to Overview](Pages/index.md)
+[Back to Overview](index.md)
