@@ -14,4 +14,4 @@
 
 [Frequently Asked Questions](Pages/faq.md)
 
-[Credits](about.md)
+[Credits](Pages/credits.md)
