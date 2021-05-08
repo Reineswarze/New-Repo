@@ -1,4 +1,3 @@
-# Weapon Recommendations
+## Weapon Recommendations
 
-
-[Back to Overview](index.md)
+[Back to Overview](.../index.md)
