@@ -14,4 +14,4 @@ Xeovalga/Bearrion for cross-referencing and peer reviewing this guide
 
 [Images referenced from Bumped.org](http://pso2.jp/players/update/20191218/01) 
 
-[Back to Overview](index.md)
+[Back to Overview](New-Repo/index.md)
