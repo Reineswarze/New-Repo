@@ -1,17 +1,17 @@
 ## Etoile Class Guide Overview
 
-[Skill Tree](Pages/skilltree.md)
+[Skill Tree](skilltree.md)
 
-[Moveset](Pages/moveset.md)
+[Moveset](moveset.md)
 
-[DPS Rotations](Pages/DPSRotations.md)
+[DPS Rotations](DPSRotations.md)
 
-[Weapons Recommendations](Pages/weaponrecommendations.md)   
+[Weapons Recommendations](weaponrecommendations.md)   
 
-[Unit Recommendations](Pages/units.md)
+[Unit Recommendations](units.md)
 
-[SGA/SSA](Pages/SGA.md)
+[SGA/SSA](SGA.md)
 
-[Frequently Asked Questions](Pages/faq.md)
+[Frequently Asked Questions](faq.md)
 
-[Credits](Pages/credits.md)
+[Credits](credits.md)
