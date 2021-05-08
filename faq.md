@@ -37,4 +37,4 @@ if you are on the Japanese servers, you have the option of using the helen bathi
 You can but wand is near the stage of Must-Have, having no DBs or DS is fine.
 
 
-[Back to Overview](../index.md)
+[Back to Overview](index.md)
